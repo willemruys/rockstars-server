@@ -33758,5 +33758,63 @@
       "id": 537,
       "name": "Zutons"
     }
+  ],
+  "personal-playlist": [
+    {
+      "id": 2,
+      "name": "Kryptonite",
+      "year": 2000,
+      "shortname": "kryptonite",
+      "genre": "Rock",
+      "album": "The Better Life"
+    },
+    {
+      "id": 1680,
+      "name": "When I'm Gone",
+      "year": 2002,
+      "shortname": "whenimgone",
+      "genre": "Rock",
+      "album": "Away from the Sun"
+    },
+    {
+      "id": 1,
+      "name": "It's Not My Time",
+      "year": 2008,
+      "shortname": "itsnotmytime",
+      "genre": "Rock",
+      "album": "3 Doors Down"
+    },
+    {
+      "id": 1686,
+      "name": "Here Without You",
+      "year": 2002,
+      "shortname": "herewithoutyou",
+      "genre": "Rock",
+      "album": "Away from the Sun"
+    },
+    {
+      "id": 8,
+      "name": "Hold On Loosely",
+      "year": 1981,
+      "shortname": "holdonloosely",
+      "genre": "Southern Rock",
+      "album": "Wild-Eyed Southern Boys"
+    },
+    {
+      "id": 5,
+      "name": "This Is War",
+      "year": 2009,
+      "shortname": "thisiswar",
+      "genre": "Emo",
+      "album": "This Is War"
+    },
+    {
+      "id": 2283,
+      "name": "My Own Eyes",
+      "year": 2014,
+      "shortname": "myowneyes",
+      "genre": "Novelty",
+      "album": "Mandatory Fun"
+    }
   ]
 }
